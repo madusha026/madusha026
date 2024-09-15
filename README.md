@@ -1,5 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=madusha026.madusha026" />
 
+
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+<br><br>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Madusha+Lakshan!;" />
 </h1>
